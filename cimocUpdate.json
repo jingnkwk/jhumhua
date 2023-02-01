@@ -4,7 +4,7 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2023-02-02 02:55:41",
   "ApkSize": 33787,
-  "VersionCode": 1416,
+  "VersionCode": 1407,
   "VersionName": "1.7.86（1416）",
   "ApkMd5": "3edc44478461094a77f73012c19761f5",
   "DownloadUrl": "http://tool.bitefu.net/lanzou/?url=https://haleydu.lanzouf.com/i5iFW0mechkb&pwd=1234&type=down",
