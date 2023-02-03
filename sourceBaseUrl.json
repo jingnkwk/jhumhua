@@ -1,4 +1,16 @@
 {
+	"LAIMH": {
+		"baseUrl": "https://m.laimanhua.net"
+	},
+	"GUOGUOMH": {
+		"baseUrl": "https://m.guoguomh.com"
+	},
+	"KUMANWU": {
+		"baseUrl": "http://www.kumw6.com"
+	},
+	"YOUDM": {
+		"baseUrl": "https://www.udm123.com"
+	},
 	"SHOUJIMH": {
 		"baseUrl": "http://www.gmanhua.com"
 	},
