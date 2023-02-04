@@ -1,6 +1,7 @@
 {
 	"LAIMH": {
-		"baseUrl": "https://www.laimanhua.net"
+		"baseUrl": "https://www.laimanhua.net",
+		"server": ["https://mhpic6.kingwar.cn", "https://mhpic5.kingwar.cn"]
 	},
 	"GUOGUOMH": {
 		"baseUrl": "https://m.guoguomh.com"
