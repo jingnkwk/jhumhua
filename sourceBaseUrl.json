@@ -1,4 +1,7 @@
 {
+	"vomic": {
+		"baseUrl": "http://www.iewoai.com"
+	},
 	"TUHAOMHV2": {
 		"baseUrl": "https://www.tuhmh.com"
 	},
