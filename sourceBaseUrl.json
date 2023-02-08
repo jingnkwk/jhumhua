@@ -1,4 +1,7 @@
 {
+	"XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
+	},	
 	"VOMIC": {
 		"baseUrl": "http://www.iewoai.com"
 	},
