@@ -1,4 +1,8 @@
 {
+	"MKZHAN": {
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
+	},		
 	"XMANHUA": {
 		"baseUrl": "https://xmanhua.com"
 	},	
