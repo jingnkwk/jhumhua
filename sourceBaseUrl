@@ -1,4 +1,7 @@
 {
+	"BOLEMH": {
+		"baseUrl": "https://mybl.xyz"
+	},
 	"MKZHAN": {
 		"baseUrl": "https://comic.mkzhan.com",
 		"serverUrl": "https://comic.mkzcdn.com"
