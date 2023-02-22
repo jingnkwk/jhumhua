@@ -363,6 +363,13 @@
 	"IKANMANTW": "https://tw.manhuagui.com",
 	"IKANMANSERVER": "https://i.hamreus.com",
 	"JMTT": "",
+	"BASEURLHLV2": {
+		"baseUrl": "FFkwEQoIF7tfT6qh4RO2gvusVVlUH7KTCgg/WXFWuAc=",
+		"serverUrl": "wi5exBJN82KBCNTU4Kq7vapkncyM2vMaDCROPzGbGGc="
+	},
+	"BASEURLJMV2": {
+		"baseUrl": "CdXtgJ+YdHUif+vHMdaBeWxiyUavSTmZ5YM75xXeILI="
+	},
 	"MANGABZ": "http://www.mangabz.com",
 	"MANGAKAKALOT": "",
 	"MANGANEL": "",
