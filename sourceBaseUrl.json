@@ -293,7 +293,7 @@
 		"parseInfoAuthor": ".author_name",
 		"parseInfoUpdate": "span.looking_chapter",
 		"parseInfoStatus": "span.looking_chapter",
-		"parseChapterList1": "ul.catalog_list.row_catalog_list > a",
+		"parseChapterList1": "ul.catalog_list > li",
 		"parseCategoryInfoList": "div.category_comic_container > div.comic_cover_container",
 		"parseCategoryInfoCid": "a",
 		"parseCategoryInfoTitle": "div.comic_cover_title",
